@@ -15,16 +15,22 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.elcinx.pocketpal",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      },
-      "predictiveBackGestureEnabled": false
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f385059d-7875-48ca-9b2b-1513d4304f15"
+      }
+    },
+    "owner": "eexnmy"
   }
 }
