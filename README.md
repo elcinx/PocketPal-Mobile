@@ -26,7 +26,7 @@ PocketPal, kullanıcıyı sürekli etkileşimde tutan zengin bir oyunlaştırma 
 
 Uygulamanın sevimli dünyasını ve akıcı oynanışını 1 dakikalık tanıtım videomuzda izleyin:
 
-👉 **[YouTube Tanıtım Videosu Linki Buraya]**
+👉 https://youtube.com/shorts/4DoFFe0kl8E
 
 ---
 
