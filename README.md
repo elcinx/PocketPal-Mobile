@@ -65,7 +65,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 ## 📱 APK Dosyası
 
 *Android cihazlar için doğrudan yükleme dosyası:*
-*(Not: APK dosyası güncellenmektedir. Yakında burada yer alacaktır.)*
+[📥 PocketPal Mobile APK İndir](./apk/PocketPal-Mobile.apk)
 
 ---
 
